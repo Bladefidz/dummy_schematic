@@ -1,0 +1,2 @@
+AVR Adaptor (www.sparkfun.com/products/8508)
+PIN Header (www.sparkfun.com/products/117)
