@@ -2,7 +2,7 @@ Dummy Schematic
 ==================
 
 ### Description
-List of schematic i have been build while learn microcontroller. I use Fritzing to build almost schematics.
+List of schematic i have been build while learn microcontroller. I used Fritzing to build almost schematics.
 
 
 Note:
